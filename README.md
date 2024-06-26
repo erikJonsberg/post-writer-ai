@@ -1,16 +1,18 @@
-# AI blog post wroter
+# AI blog post writer
 
 ## Overview
 
-Enter a title for your article. Enter three or more keywords. GPT generates an SEO-friendly blog post.
+Enter a title for your article. Enter three or more keywords or phrases. GPT generates an SEO-friendly blog post of any length in any language.
 
-This project was built back in the days of the `pages router` and it uses `text-davinci-003` or `gtp-3.5-turbo`. You can tell that the articles it generates are AI. It's actually pretty comical because they read like they were written by someone with schizophrenia.
+The goal of this Assistant is to write articles that are as close to human-sounding as possible. It avoids AI-sounding syntax, such as vague descriptions and repetitious phrases. It also avoids using over-used AI words like "delve" and "tapestry."
 
-But it's a great concept and I'd love to circle back to this and get it working on the `app router` with `gpt-4o`. The database is set up and it's got Auth0 and Stripe, so it's just a matter of bringing into the 21st century.
+However, as with any AI-generated content, you will need to edit the article to include human experience, anecdotes, and humor/wordplay.
+
+This project is in progress. It will be bundled with Summarizr as a SaaS.
 
 ## To do list
 
-- port to `app router`
-- change auth to Clerk
-- Update Stripe
-- update the API with better prompts and `gpt-4o`
+[] Port to `app router`
+[] Change auth to Clerk
+[] Update Stripe
+[] Update the API with the human blog post assistant
