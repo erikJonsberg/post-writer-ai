@@ -12,7 +12,7 @@ This project is in progress. It will be bundled with Summarizr as a SaaS.
 
 ## To do list
 
-[] Port to `app router`
-[] Change auth to Clerk
-[] Update Stripe
-[] Update the API with the human blog post assistant
+- [ ] Port to `app router`
+- [ ] Change auth to Clerk
+- [ ] Update Stripe
+- [ ] Update the API with the human blog post assistant instructions
